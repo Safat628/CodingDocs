@@ -37,7 +37,7 @@ Users can add movies to their favorites list for quick access later.
 
 Users can view their registered email and favorite movies.
 
-## Example Output
+## Output
 
 ```plaintext
 User registered with email: safawandeey55@gmail.com
